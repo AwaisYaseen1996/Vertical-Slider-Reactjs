@@ -49,6 +49,8 @@
 /* Style the slider dots */
 .slick-dots {
   position: absolute;
+  width: 8%;
+  right: 0;
   top: 0;
   bottom: 0;
   display: flex !important;

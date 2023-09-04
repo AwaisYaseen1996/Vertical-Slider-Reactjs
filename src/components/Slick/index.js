@@ -6,7 +6,7 @@ import './VerticalSlider.css'; // Create this CSS file for custom styles
 
 const Slick = () => {
     const settings = {
-        autoplay: false, // Enables auto play of slides
+        autoplay: true, // Enables auto play of slides
         autoplaySpeed: 3000, // Auto play change interval
         arrows: false,
         dots: true,
